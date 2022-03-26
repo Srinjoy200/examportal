@@ -1,0 +1,21 @@
+.centered{
+    text-align:center;
+
+}
+.logo{
+    width: 10vw;
+    height: 10vw;
+}
+.form{
+    background-color:rgb(255, 254, 224);
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+.fill
+{
+    width: 100%;
+}
+.buttons{
+    margin: 5px;
+}
